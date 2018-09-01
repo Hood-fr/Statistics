@@ -1,0 +1,2 @@
+# Statistics
+Piwigo plugin
